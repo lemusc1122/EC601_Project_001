@@ -1,7 +1,7 @@
-2026-09-06
+2026-09-06 <br>
 
-Interests: 
-5. Computational Imaging and Optics + Software
-8. Hardware, Architecture and Embedded Systems
-9. Photonics & Quantum (Software/Simulation angle)
+Interests: <br>
+5. Computational Imaging and Optics + Software <br>
+8. Hardware, Architecture and Embedded Systems <br>
+9. Photonics & Quantum (Software/Simulation angle) <br>
 
