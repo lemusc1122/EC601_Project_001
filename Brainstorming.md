@@ -17,4 +17,10 @@ Key points for proposal: <br>
 - Why it matters <br>
 - What exists today (competition) <br>
 - What is the final deliverable for 12 weeks from now <br>
+- What decisons do the end users make with the deliverable
+- What does a wrong answer cost
+- What are the constraints of the end user's setting
+- Who else touches the result
+- What exists for them today and why is it not enough
 
+- 
