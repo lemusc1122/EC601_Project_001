@@ -3,9 +3,9 @@
 Phase 001 <br>
 
 Interests: <br>
-5. Computational Imaging and Optics + Software <br>
-8. Hardware, Architecture and Embedded Systems <br>
-9. Photonics & Quantum (Software/Simulation angle) <br>
+- 5. Computational Imaging and Optics + Software <br>
+- 8. Hardware, Architecture and Embedded Systems <br>
+- 9. Photonics & Quantum (Software/Simulation angle) <br>
 
 Who is the end user for the final deliverable prototype? <br>
 - Hobbyist (low risk, recreational use) <br>
