@@ -75,3 +75,7 @@ Reasearch papers by area of interest:
 - 9 Photonics & Quantum (Software/Simulation angle) <br>
 1. 
 
+SW downloaded:<br>
+- Anaconda 2023-09 <br>
+- VSCode
+- created "qiskit-runtime" custom environment by running "conda create --name qiskit-runtime python=3.11.5" in terminal, then "$ conda activate qiskit-runtime" to activate it. Once activated, run "pip install 'qiskit[visualization]'" to install the necessary packages.
