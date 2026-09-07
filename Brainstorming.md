@@ -47,5 +47,6 @@ What: Development of a certain scale of NISQ computer and demonstration of the e
 References to Startup & Industry Signals
 - YCombinator ; The Future of American Defense
 https://www.ycombinator.com/rfs#the-future-of-american-defense <br>
-Need: A. So here is our request for startups. We are actively funding low-cost interceptors or any component that helps us lower the cost per kill. <br>
+Need: <br>
+A. So here is our request for startups. We are actively funding low-cost interceptors or any component that helps us lower the cost per kill. <br>
 B. We need next-gen sensors, software, payloads, and other hardware that plugs directly into our open system architecture. We need cutting-edge drones, resilient logistics, and advanced manufacturing, and we need it all to survive the most extreme climates on Earth. Bring us your ideas, and we will give you the capital and the proving ground to scale.
