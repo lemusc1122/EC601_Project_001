@@ -24,13 +24,13 @@ Key points for proposal: <br>
 - What exists for them today and why is it not enough
 
 References to Research Funding Agenda
-- Horizon Europe ; Quantum Computing https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en
-What: Make Europe the first continent with fully integrated quantum computing in daily life
-How: Develop applications from medicine to climate, solving previously impossible problems for 450 million citizens
-- NSF ; Gravitational Physics PD 26-1243
-https://www.nsf.gov/funding/opportunities/gp-gravitational-physics
+- Horizon Europe ; Quantum Computing https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en <br>
+What: Make Europe the first continent with fully integrated quantum computing in daily life <br>
+How: Develop applications from medicine to climate, solving previously impossible problems for 450 million citizens <br>
+- NSF ; Gravitational Physics PD 26-1243 <br>
+https://www.nsf.gov/funding/opportunities/gp-gravitational-physics <br>
 What: Gravitational Physics program supports research and infrastructure on gravitation across large and small scales, including
-Data analysis for gravitational-wave detectors, Instrumentation development and detector characterization at the NSF Laser Interferometer Gravitational-Wave Observatory (NSF LIGO), Technologies for next-generation detectors, Research in classical and quantum gravity theory
-- NSF ; Transport Phenomena PD 26-366Y
-https://www.nsf.gov/funding/opportunities/transport-phenomena
-What: Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales
+Data analysis for gravitational-wave detectors, Instrumentation development and detector characterization at the NSF Laser Interferometer Gravitational-Wave Observatory (NSF LIGO), Technologies for next-generation detectors, Research in classical and quantum gravity theory <br>
+- NSF ; Transport Phenomena PD 26-366Y <br>
+https://www.nsf.gov/funding/opportunities/transport-phenomena <br>
+What: Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales <br>
