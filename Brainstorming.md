@@ -57,6 +57,8 @@ Need: I want to fund founders building the counter-swarm stack. That could mean 
 https://technode.com/2026/07/08/deepseek-begins-in-house-ai-chip-development-to-cut-reliance-on-nvidia-sources-say/ <br>
 Need: Chinese AI startup DeepSeek has launched an in-house AI chip project focused on inference workloads, according to Reuters. The company aims to reduce inference costs through custom-designed processors while lowering its reliance on overseas suppliers such as NVIDI <br>
 
+
+2026-09-07
 Reasearch papers by area of interest:
 - 5 Computational Imaging and Optics + Software <br>
 1. 
@@ -64,3 +66,4 @@ Reasearch papers by area of interest:
 1. 
 - 9 Photonics & Quantum (Software/Simulation angle) <br>
 1. 
+
