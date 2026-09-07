@@ -78,4 +78,5 @@ Reasearch papers by area of interest:
 SW downloaded:<br>
 - Anaconda 2023-09 <br>
 - VSCode
-- created "qiskit-runtime" custom environment by running "conda create --name qiskit-runtime python=3.11.5" in terminal, then "$ conda activate qiskit-runtime" to activate it. Once activated, run "pip install 'qiskit[visualization]'" to install the necessary packages.
+- created "qiskit-runtime" custom environment by running "conda create --name qiskit-runtime python=3.11.5" in terminal, then "conda activate qiskit-runtime" to activate it. Once activated, run "pip install 'qiskit[visualization]'" to install the necessary packages. Next, run "pip install qiskit-ibm-runtime".
+- For visual confirmation we are running the correct kernal, execute "python -m ipykernel install --user --name qiskit-runtime --display-name 'Qiskit (runtime)'"
