@@ -59,6 +59,14 @@ Need: Chinese AI startup DeepSeek has launched an in-house AI chip project focus
 
 
 2026-09-07 <br>
+
+Ideas for goals:
+Goal (5): Single-photon / LiDAR data processing for <user> using Qiskit <br>
+Goal (7): Measurement studies of 6G, 5G, 4G LTE, WiFi, IOT protocols for <user> using <sw or hw> <br>
+Goal (8): FPGA prototype for range detection of various skin tones using VERILOG <br>
+Goal (9): Modeling and design tool for <user> using Qiskit <br>
+
+
 Reasearch papers by area of interest:
 - 5 Computational Imaging and Optics + Software <br>
 1. 
