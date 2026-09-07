@@ -34,3 +34,18 @@ Data analysis for gravitational-wave detectors, Instrumentation development and 
 - NSF ; Transport Phenomena PD 26-366Y <br>
 https://www.nsf.gov/funding/opportunities/transport-phenomena <br>
 What: Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales <br>
+- NSF ; Electronic, Photonic, Magnetic, and Quantum Devices (EPMQD) PD 26-1517 <br>
+https://www.nsf.gov/funding/opportunities/epmqd-electronic-photonic-magnetic-quantum-devices
+What: The Electronic, Photonic, Magnetic, and Quantum Devices (EPMQD) program supports fundamental research on devices with new and/or enhanced capabilities based on their structure and material properties. EPMQD’s goal is to expand the frontiers of micro-, nano- and quantum- devices. Innovations will advance artificial intelligence, computing, communications, healthcare, energy, manufacturing, and other domains. The program encourages research based on emerging ideas for miniaturization, integration, and energy efficiency. <br>
+- NSF ; Circuits and Systems for Communications and Sensing (CSCS) PD 26-7564
+https://www.nsf.gov/funding/opportunities/cscs-circuits-systems-communications-sensing
+What: The Circuits and Systems for Communications and Sensing (CSCS) program supports the key role of electrical engineering in future communications, sensing, circuits, and signal processing. The program's main goal is to advance next-generation systems that integrate communication, sensing, and computation with physical domains, from the nano- to the macro-scale. CSCS covers a wide range of fields and topics, with a focus on both classical and quantum aspects. The program addresses the need for spectrum sharing and resilient connectivity. It also advances national priorities such as quantum engineering, biotechnology and artificial intelligence (AI). Ultimately, CSCS aims to create innovative solutions to spur economic growth, improve lives, and address national challenges.​
+- Moonshot ; Goal 6 Realization of a fault-tolerant universal quantum computer that will revolutionize economy, industry, and security by 2050.
+https://www8.cao.go.jp/cstp/english/moonshot/sub6_en.html
+What: Development of a certain scale of NISQ computer and demonstration of the effectiveness of quantum error correction by 2030 & Achievement of the large-scale integration required for fault-tolerant universal quantum computers by around 2050
+
+References to Startup & Industry Signals
+- YCombinator ; The Future of American Defense
+https://www.ycombinator.com/rfs#the-future-of-american-defense
+Need: A. So here is our request for startups. We are actively funding low-cost interceptors or any component that helps us lower the cost per kill. <br>
+B. We need next-gen sensors, software, payloads, and other hardware that plugs directly into our open system architecture. We need cutting-edge drones, resilient logistics, and advanced manufacturing, and we need it all to survive the most extreme climates on Earth. Bring us your ideas, and we will give you the capital and the proving ground to scale.
