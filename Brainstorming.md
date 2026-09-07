@@ -50,3 +50,17 @@ https://www.ycombinator.com/rfs#the-future-of-american-defense <br>
 Need: <br>
 A. So here is our request for startups. We are actively funding low-cost interceptors or any component that helps us lower the cost per kill. <br>
 B. We need next-gen sensors, software, payloads, and other hardware that plugs directly into our open system architecture. We need cutting-edge drones, resilient logistics, and advanced manufacturing, and we need it all to survive the most extreme climates on Earth. Bring us your ideas, and we will give you the capital and the proving ground to scale.
+- YCombinator ; Counter-Swarm Defense
+https://www.ycombinator.com/rfs#counter-swarm-defense <br>
+Need: I want to fund founders building the counter-swarm stack. That could mean high-capacity interceptors — a single platform that neutralizes fifty drones, not one. Software that fuses every sensor and every defender on a site into a single real-time picture. We need non-kinetic defenses that don't exist yet: aerosols that foul rotors, streamers that entangle swarms. We need new attacks on the autonomy stack itself now that radio jamming is becoming obsolete.<br>
+- techNode ; DeepSeek begins in-house AI chip development to cut reliance on NVIDIA, sources say
+https://technode.com/2026/07/08/deepseek-begins-in-house-ai-chip-development-to-cut-reliance-on-nvidia-sources-say/ <br>
+Need: Chinese AI startup DeepSeek has launched an in-house AI chip project focused on inference workloads, according to Reuters. The company aims to reduce inference costs through custom-designed processors while lowering its reliance on overseas suppliers such as NVIDI <br>
+
+Reasearch papers by area of interest:
+- 5 Computational Imaging and Optics + Software <br>
+1. 
+- 8 Hardware, Architecture and Embedded Systems <br>
+1. 
+- 9 Photonics & Quantum (Software/Simulation angle) <br>
+1. 
