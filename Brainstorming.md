@@ -92,3 +92,10 @@ Error correction articles<br>
 Quantum loss articles<br>
 - https://www.nist.gov/news-events/news/2015/09/nist-team-breaks-distance-record-quantum-teleportation
 - 
+
+Quantum Cryptography
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:bEWYMUwI8FkC
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:WC23djZS0W4C
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:PYBJJbyH-FwC
+-x https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&cstart=80&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:jL-93Qbq4QoC
+-x https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:L24QuVWYgZ0C
