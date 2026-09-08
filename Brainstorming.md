@@ -79,4 +79,13 @@ SW downloaded:<br>
 - Anaconda 2023-09 <br>
 - VSCode
 - created "qiskit-runtime" custom environment by running "conda create --name qiskit-runtime python=3.11.5" in terminal, then "conda activate qiskit-runtime" to activate it. Once activated, run "pip install 'qiskit[visualization]'" to install the necessary packages. Next, run "pip install qiskit-ibm-runtime".
-- For visual confirmation we are running the correct kernal, execute "python -m ipykernel install --user --name qiskit-runtime --display-name 'Qiskit (runtime)'"
+- For visual confirmation we are running the correct kernel, execute "python -m ipykernel install --user --name qiskit-runtime --display-name 'Qiskit (runtime)'"
+
+2026-09-08 <br>
+Problem statement draft 1: Results in Quantum Computing can be improved by choosing algorithms which will prevent the propagation of errors faster than they occur and spread. These algorithms can be applied to quantum circuits in hopes to obtain a fault-tolerant (zero faults) system for reliable computation. Finding which algorithms work best will be a goal here for a few different quantum circuits. Ultimately, this is signifiant to improve computation, security and real world problems like lossy lines and environmental interference. 
+
+Error correction articles<br>
+- https://www.ibm.com/quantum/blog/nature-qldpc-error-correction
+- https://www.ibm.com/quantum/blog/what-is-ftqc
+- https://www.nature.com/articles/s41586-024-07107-7
+- 
