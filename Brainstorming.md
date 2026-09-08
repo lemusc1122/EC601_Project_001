@@ -99,3 +99,6 @@ Quantum Cryptography
 - https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:PYBJJbyH-FwC
 - x https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&cstart=80&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:jL-93Qbq4QoC
 - x https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:L24QuVWYgZ0C
+
+Decisions made by user:
+- the user will compare results to their model and ultimately decide whether their predictions are correct / incorrect. Any false failures would result in time wasted to investigate. Time is money
