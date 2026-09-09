@@ -101,4 +101,6 @@ Quantum Cryptography
 - x https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kSB6hucAAAAJ&sortby=pubdate&citation_for_view=kSB6hucAAAAJ:L24QuVWYgZ0C
 
 Decisions made by user:
-- the user will compare results to their model and ultimately decide whether their predictions are correct / incorrect. Any false failures would result in time wasted to investigate. Time is money
+- the user will compare results to their model and ultimately decide whether their predictions are correct / incorrect.
+What does a wrong cause - in each direction?
+- Any false failures would result in time wasted to investigate. Time is money
