@@ -124,4 +124,6 @@ Proposed approach
 - roadmap / milestones here
 - what done looks like
 
+Enough ideas on paper to draft proposal
 
+---------------------------------****
