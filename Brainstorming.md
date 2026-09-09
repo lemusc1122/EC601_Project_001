@@ -105,3 +105,23 @@ Decisions made by user:
 
 What does a wrong cause - in each direction?
 - Any false failures would result in time wasted to investigate. Time is money
+
+What are constraints of user's setting?
+- Potentially requiring financial support to purchase API token from IBM Quantum site
+- Connectivity in order to reach a real-time quantum processor that IBM provides through their server
+
+Who else touches the result?
+- Aside from the direct user, no one can obtain and misinterpret the result - unless each quantum circuit and result gets stored into a repository for public access, at which point the viewers need to do their research to confirm the parameters and configuration.
+
+What exists for the users today, and why is it not enough? 
+- There exists methods to simulate continuous wave / classical systems which oblige by friendlier optics theory, but down at the quantum level Qiskit is able to model qudits (d-dimensional)
+- This is not enough because there should be a higher level tool for users to more easily implement quantum circuits for their simulation
+
+Prior work
+- 
+
+Proposed approach 
+- roadmap / milestones here
+- what done looks like
+
+
