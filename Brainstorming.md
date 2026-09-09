@@ -137,3 +137,5 @@ Outline:<br>
 - Explain what paper 1 addresses (quiz afterwards)
 - Explain what paper 2 addresses (quiz afterwards)
 - Exolain what paper 3 addresses (quiz afterwards)
+- Exolain what paper 4 addresses (quiz afterwards)
+- Brief conclusion 
