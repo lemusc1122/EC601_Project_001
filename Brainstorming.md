@@ -118,7 +118,7 @@ What exists for the users today, and why is it not enough?
 - This is not enough because there should be a higher level tool for users to more easily implement quantum circuits for their simulation
 
 Prior work
--
+-v
 
 Proposed approach 
 - roadmap / milestones here
