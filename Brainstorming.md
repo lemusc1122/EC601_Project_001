@@ -102,5 +102,6 @@ Quantum Cryptography
 
 Decisions made by user:
 - the user will compare results to their model and ultimately decide whether their predictions are correct / incorrect.
+
 What does a wrong cause - in each direction?
 - Any false failures would result in time wasted to investigate. Time is money
