@@ -134,6 +134,7 @@ Begin LLM tutorial <br>
 Outline:<br>
 - Introduction to Quantum Optics. Explain why QO matters and applications (with citations) (quiz also)
 - Example of Quantum Optical circuit (HOM?) and explain how it works and why it is important (first principles) (quiz also)
+- Explain where fault-tolerance comes into play (quiz also)
 - Explain what paper 1 addresses (quiz afterwards)
 - Explain what paper 2 addresses (quiz afterwards)
 - Exolain what paper 3 addresses (quiz afterwards)
