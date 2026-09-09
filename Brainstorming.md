@@ -127,3 +127,6 @@ Proposed approach
 Enough ideas on paper to draft proposal
 
 ---------------------------------
+2026-09-09 
+Proposal pass 1 complete
+Begin LLM tutorial 
