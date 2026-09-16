@@ -29,7 +29,6 @@ All source code will live in Github, available for public to download and use on
 ### How?  How, at the architecture-sketch level? 
 *Qiskit* API -> Python as main GUI interface -> Successful qc implementation and transpilation to QPU hardware-> Measurements of possible states
 ## $${\\color{green}Mission\ Statement }$$
-i.e. For [target user] who [has this need], the [project] is a [category] that [key benefit]. Unlike [what they do today], it [key difference].<br>
 For $${\\color{yellow}students}$$ who $${\\color{yellow}need\ a\ GUI-based\ qunatum\ circuit\ simulator}$$, the $${\\color{yellow}Quantum\ Circuit\ Design\ and\ Simulation\ Tool}$$ is a $${\\color{yellow}design\ tool\ with\ simulation}$$ that $${\\color{yellow}accelerates\ learning}$$. Unlike $${\\color{yellow}*Quiskit*}$$, it $${\\color{yellow}provides\ an\ additional\ layer\ of\ abstraction\ to\ make\ simulation\ intuitive.}$$
 ## $${\\color{green}User\ and\ Subproduct }$$
 who the user and what is the subproduct for semester
