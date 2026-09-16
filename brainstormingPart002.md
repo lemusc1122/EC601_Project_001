@@ -4,7 +4,7 @@
 Can algorithms be applied to quantum circuits (qc) to reduce noise? can any pi-pulsing patterns used in optical clock systems (NIST) 
 be utilized in a qc environment? If algorithms can be applied (Qiskit), which are the best? Does efficiency depend on qc?
 
-## $${\\color{green}Next\ Steps\ -\ Validate\ Before\ Build}$$
+## $\color{#00ff00}\textsf{Next Steps - Validate Before Build}$
 1. Rewrite your proposal as 3–5 assumptions.  Someone has this problem · we can build it with data we can access · it beats what the user does today.
 
 2. Rank them: most fatal × most uncertain first.  Not the one you already know how to test — the one that kills the project if wrong.
@@ -15,7 +15,7 @@ be utilized in a qc environment? If algorithms can be applied (Qiskit), which ar
 
 5. Bring to next class:  mission sentence · named user · top-5 stories with acceptance criteria · assumption table with test results — in your GitHub repo.
 
-## $${\\color{green}5\ W's\ and\ How}$$
+## $\color{#00ff00}\textsf{5 W's and How}$ 
 ### What?  What are you building — one sentence, no jargon. 
 Software package using *Qiskit* as the base that simulates circuits and measurements
 ### Who?  Who uses it, and who else is affected?  
@@ -28,13 +28,13 @@ This is needed by end of November and will be used anytime there is a need to mo
 All source code will live in Github, available for public to download and use on the *Qiskit* environment on their laptops
 ### How?  How, at the architecture-sketch level? 
 *Qiskit* API -> Python as main GUI interface -> Successful qc implementation and transpilation to QPU hardware-> Measurements of possible states
-## $${\\color{green}Mission\ Statement }$$
+## $\color{#00ff00}\textsf{Mission Statement}$
 For $${\\color{yellow}students}$$ who $${\\color{yellow}need\ a\ GUI-based\ qunatum\ circuit\ simulator}$$, the $${\\color{yellow}Quantum\ Circuit\ Design\ and\ Simulation\ Tool}$$ is a $${\\color{yellow}design\ and\ simulation\ tool\}$$ that $${\\color{yellow}accelerates\ learning}$$. Unlike $${\\color{yellow}Quiskit}$$, it $${\\color{yellow}provides\ an\ additional\ layer\ of\ abstraction\ to\ make\ simulation\ intuitive\ and\ rapid.}$$
-## $${\\color{green}User\ and\ Subproduct }$$
+## $\color{#00ff00}\textsf{User and Subproduct}$
 who the user and what is the subproduct for semester
-## $${\\color{green}User\ Stories\ (Unit\ of\ work) }$$
+## $\color{#00ff00}\textsf{User stories (Unit of work)}$
 i.e. As a [specific user], I want [capability], so that [outcome I care about].
-## $${\\color{green}INVEST\ -\ 6\ Checks,\ 6\ Failure\ Modes }$$
+## $\color{#00ff00}\textsf{INVEST - 6 Checks, 6 Failure Modes}$
 I — Independent:  No waiting on another story, so you can build in risk order.  ✗ “Show feedback trends” before feedback collection exists.
 
 N — Negotiable:  A promise to talk, not a frozen spec — the how is decided when you build it.  ✗ “Rank with cosine similarity over abstracts” — that’s implementation, not need.
