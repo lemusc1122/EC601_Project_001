@@ -28,15 +28,6 @@ This is needed by end of November and will be used anytime there is a need to mo
 All source code will live in Github, available for public to download and use on the *Qiskit* environment on their laptops
 ### How?  How, at the architecture-sketch level? 
 *Qiskit* API -> Python as main GUI interface -> Successful qc implementation and transpilation to QPU hardware-> Measurements of possible states
-## $\color{#00ff00}\textsf{Mission Statement}$
-For $\color{#ffe135}\textsf{students}$ who $\color{#ffe135}\textsf{need a GUI-based quantum circuit simulator}$, the $\color{#ffe135}\textsf{Quantum Circuit Design and Simulation Tool}$ is a $\color{#ffe135}\textsf{design and simulation tool}$ that $\color{#ffe135}\textsf{accelerates learning}$. Unlike $\color{#ffe135}\textsf{Qiskit}$, it $\color{#ffe135}\textsf{provides an additional layer of abstraction to make simulation intuitive and rapid.}$
-## $\color{#00ff00}\textsf{User and Subproduct}$
-Student is user, Raw design tool to lay out circuit and run simulation/measurements<br>
-Researcher is user, Raw design tool plus access to implement algorithms, simulate/measure results, and Qiskit code under hood<br>
-## $\color{#00ff00}\textsf{User stories}$
-i.e. As a [specific user], I want [capability], so that [outcome I care about].<br>
-As a $\color{#ffe135}\textsf{student}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool}$, so that $\color{#ffe135}\textsf{I can learn about qunatum circuits}$<br>
-As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool with ability to incorporate algorithms for error reduction (zero-fault) and view code under the hood}$, so that $\color{#ffe135}\textsf{I can simulate a circuit in question and verify whether certain algorithms are better than others}$
 ## $\color{#00ff00}\textsf{INVEST - 6 Checks, 6 Failure Modes}$
 I — Independent:  No waiting on another story, so you can build in risk order.  ✗ “Show feedback trends” before feedback collection exists.
 
@@ -49,3 +40,12 @@ E — Estimable:  The team can size it. If not: too vague, or hides an unknown �
 S — Small:  Fits in one sprint. Too big = an epic → split it (next slide).  ✗ Demo is “we’re 40% done.”
 
 T — Testable:  Done vs not-done is checkable by someone other than the author.  ✓ “8/10 picks judged relevant by a labmate in ≤10s.”
+## $\color{#00ff00}\textsf{Mission Statement}$
+For $\color{#ffe135}\textsf{students}$ who $\color{#ffe135}\textsf{need a GUI-based quantum circuit simulator}$, the $\color{#ffe135}\textsf{Quantum Circuit Design and Simulation Tool}$ is a $\color{#ffe135}\textsf{design and simulation tool}$ that $\color{#ffe135}\textsf{accelerates learning}$. Unlike $\color{#ffe135}\textsf{Qiskit}$, it $\color{#ffe135}\textsf{provides an additional layer of abstraction to make simulation intuitive and rapid.}$
+## $\color{#00ff00}\textsf{User and Subproduct}$
+Student is user, Raw design tool to lay out circuit and run simulation/measurements<br>
+Researcher is user, Raw design tool plus access to implement algorithms, simulate/measure results, and Qiskit code under hood<br>
+## $\color{#00ff00}\textsf{User stories}$
+i.e. As a [specific user], I want [capability], so that [outcome I care about].<br>
+As a $\color{#ffe135}\textsf{student}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool}$, so that $\color{#ffe135}\textsf{I can learn about qunatum circuits}$<br>
+As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool with ability to incorporate algorithms for error reduction (zero-fault) and view code under the hood}$, so that $\color{#ffe135}\textsf{I can simulate a circuit in question and verify whether certain algorithms are better than others}$
