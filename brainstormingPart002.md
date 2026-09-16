@@ -17,17 +17,17 @@ be utilized in a qc environment? If algorithms can be applied (Qiskit), which ar
 
 ## $${\\color{green}5\ W's\ and\ How}$$
 ### What?  What are you building — one sentence, no jargon. 
-Testing
+Software package using *Qiskit* as the base that simulates circuits and measurements
 ### Who?  Who uses it, and who else is affected?  
-testing 2
+Main users are students eager to explore quantum concepts. Secondary users are researchers who understand the concepts and want a secondary tool for troubleshooting
 ### Why?  What breaks if it doesn’t exist?  
-testing 3
+This provides a source for learning about qc for new users and allows for opportunities to explore methods to reduce error in qc's
 ### When?  When is it used — and when is it needed by? 
-testing 4
+This is needed by end of November and will be used anytime there is a need to model a qc
 ### Where?  In what setting or workflow does it live?  
-testing 5
+All source code will live in Github, available for public to download and use on the *Qiskit* environment on their laptops
 ### How?  How, at the architecture-sketch level? 
-testing 6
+*Qiskit* API -> Python as main GUI interface -> Successful qc implementation and transpilation -> Measurements of possible states
 ## $${\\color{green}Mission\ Statement }$$
 i.e. For [target user] who [has this need], the [project] is a [category] that [key benefit]. Unlike [what they do today], it [key difference].
 ## $${\\color{green}User\ and\ Subproduct }$$
