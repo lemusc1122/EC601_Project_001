@@ -31,7 +31,8 @@ All source code will live in Github, available for public to download and use on
 ## $\color{#00ff00}\textsf{Mission Statement}$
 For $\color{#ffe135}\textsf{students}$ who $\color{#ffe135}\textsf{need a GUI-based quantum circuit simulator}$, the $\color{#ffe135}\textsf{Quantum Circuit Design and Simulation Tool}$ is a $\color{#ffe135}\textsf{design and simulation tool}$ that $\color{#ffe135}\textsf{accelerates learning}$. Unlike $\color{#ffe135}\textsf{Qiskit}$, it $\color{#ffe135}\textsf{provides an additional layer of abstraction to make simulation intuitive and rapid.}$
 ## $\color{#00ff00}\textsf{User and Subproduct}$
-who the user and what is the subproduct for semester
+Student is user, Raw design tool to lay out circuit and run simulation/measurements<br>
+Researcher is user, Raw design tool plus access to implement algorithms, simulate/measure results, and Qiskit code under hood<br>
 ## $\color{#00ff00}\textsf{User stories (Unit of work)}$
 i.e. As a [specific user], I want [capability], so that [outcome I care about].
 ## $\color{#00ff00}\textsf{INVEST - 6 Checks, 6 Failure Modes}$
