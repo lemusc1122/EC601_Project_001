@@ -40,6 +40,7 @@ E — Estimable:  The team can size it. If not: too vague, or hides an unknown �
 S — Small:  Fits in one sprint. Too big = an epic → split it (next slide).  ✗ Demo is “we’re 40% done.”
 
 T — Testable:  Done vs not-done is checkable by someone other than the author.  ✓ “8/10 picks judged relevant by a labmate in ≤10s.”
+# 2026-09-16  For class:
 ## $\color{#00ff00}\textsf{Mission Statement}$
 For $\color{#ffe135}\textsf{students}$ who $\color{#ffe135}\textsf{need a GUI-based quantum circuit simulator}$, the $\color{#ffe135}\textsf{Quantum Circuit Design and Simulation Tool}$ is a $\color{#ffe135}\textsf{design and simulation tool}$ that $\color{#ffe135}\textsf{accelerates learning}$. Unlike $\color{#ffe135}\textsf{Qiskit}$, it $\color{#ffe135}\textsf{provides an additional layer of abstraction to make simulation intuitive and rapid.}$
 ## $\color{#00ff00}\textsf{User and Subproduct}$
