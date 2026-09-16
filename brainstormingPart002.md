@@ -27,7 +27,7 @@ This is needed by end of November and will be used anytime there is a need to mo
 ### Where?  In what setting or workflow does it live?  
 All source code will live in Github, available for public to download and use on the *Qiskit* environment on their laptops
 ### How?  How, at the architecture-sketch level? 
-*Qiskit* API -> Python as main GUI interface -> Successful qc implementation and transpilation -> Measurements of possible states
+*Qiskit* API -> Python as main GUI interface -> Successful qc implementation and transpilation to QPU hardware-> Measurements of possible states
 ## $${\\color{green}Mission\ Statement }$$
 i.e. For [target user] who [has this need], the [project] is a [category] that [key benefit]. Unlike [what they do today], it [key difference].
 ## $${\\color{green}User\ and\ Subproduct }$$
