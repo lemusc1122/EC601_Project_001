@@ -49,3 +49,8 @@ Researcher is user, Raw design tool plus access to implement algorithms, simulat
 i.e. As a [specific user], I want [capability], so that [outcome I care about].<br>
 As a $\color{#ffe135}\textsf{student}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool}$, so that $\color{#ffe135}\textsf{I can learn about qunatum circuits}$<br>
 As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool with ability to incorporate algorithms for error reduction (zero-fault) and view code under the hood}$, so that $\color{#ffe135}\textsf{I can simulate a circuit in question and verify whether certain algorithms are better than others}$
+## $\color{#00ff00}\textsf{Assumption Table with Test Results}$
+| Assumption | Test Results |
+| -------- | -------- | 
+| Row 1, Col 1 | Row 1, Col 2 |
+| Row 2, Col 1 | Row 2, Col 2 |
