@@ -34,7 +34,9 @@ For $\color{#ffe135}\textsf{students}$ who $\color{#ffe135}\textsf{need a GUI-ba
 Student is user, Raw design tool to lay out circuit and run simulation/measurements<br>
 Researcher is user, Raw design tool plus access to implement algorithms, simulate/measure results, and Qiskit code under hood<br>
 ## $\color{#00ff00}\textsf{User stories (Unit of work)}$
-i.e. As a [specific user], I want [capability], so that [outcome I care about].
+i.e. As a [specific user], I want [capability], so that [outcome I care about].<br>
+As a $\color{#ffe135}\textsf{student}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool}$, so that $\color{#ffe135}\textsf{I can learn about qunatum circuits}$<br>
+As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-based design and simulation tool with ability to incorporate algorithms for error reduction (zero-fault) and view code under the hood}$, so that $\color{#ffe135}\textsf{I can simulate a circuit in question and verify whether certain algorithms are better than others}$
 ## $\color{#00ff00}\textsf{INVEST - 6 Checks, 6 Failure Modes}$
 I — Independent:  No waiting on another story, so you can build in risk order.  ✗ “Show feedback trends” before feedback collection exists.
 
