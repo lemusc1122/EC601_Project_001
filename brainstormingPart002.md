@@ -56,3 +56,5 @@ As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-
 | Students need a tool to design and simulate | Create a GUI where design is possible |
 | Researchers want a tool quickly test new ideas | GUI, plus options to implement algorithms and debug Qiskit code |
 | Any methods that can reduce error in simulated quantum circuit can be used in larger Quantum system | Apply methods to different scale processors to confirm behavior |
+
+## $\color{#ff0000}\textsf{IBM Composer}$
