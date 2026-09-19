@@ -68,7 +68,8 @@ We terminate the project if there exists a tool that already provides this servi
 | The GUI is Intuitive Enough for Students  |
 | Access to Required Hardware/Software  | 
 | Students Are Motivated to Use the Tool Independently  |
-| The Simulation Accurately Represents Real Quantum Circuits  | 
+| The Simulation Accurately Represents Real Quantum Circuits  |
+
 https://terriergpt.bu.edu/share/tQPIuZe7L7_pgDNBznsWL 
 ## $\color{#ff0000}\textsf{IBM Composer}$
 https://quantum.cloud.ibm.com/composer<br>
