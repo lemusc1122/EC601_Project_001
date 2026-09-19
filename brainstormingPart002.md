@@ -64,11 +64,11 @@ As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-
 - We terminate the project if there exists a tool that already provides this service and targets the same audience<br>
 | Assumptions if proven wrong can cause failure |
 | -------- |
-|Students Have Sufficient Prior Knowledge  | 
-|The GUI is Intuitive Enough for Students  |
-|Access to Required Hardware/Software  | 
-|Students Are Motivated to Use the Tool Independently  |
-|The Simulation Accurately Represents Real Quantum Circuits  | 
+| Students Have Sufficient Prior Knowledge  | 
+| The GUI is Intuitive Enough for Students  |
+| Access to Required Hardware/Software  | 
+| Students Are Motivated to Use the Tool Independently  |
+| The Simulation Accurately Represents Real Quantum Circuits  | 
 ## $\color{#ff0000}\textsf{IBM Composer}$
 https://quantum.cloud.ibm.com/composer<br>
 https://construct.psiquantum.com/qdk
