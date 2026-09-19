@@ -60,8 +60,15 @@ As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-
 - Students with different exposure levels wants to learn about quantum circuits (#3 - Someone will want a tool like this)
 - Quantum circuits can be easily simulated on computers (#1 - Most fatal if wrong)
 - The results will assist in reinforcing understanding or expected results (i.e. testing a new algorithm) (#2 - results might be wrong but can always fix on next iteration. Non-fatal)
-## $\color{#00ff00}\textsf{Kill criteria}$
-- We terminate the project if there exists a tool that already provides this service and targets the same audience 
+## $\color{#00ff00}\textsf{Kill criteria and 5 potentially proposal-ending assumptions}$
+- We terminate the project if there exists a tool that already provides this service and targets the same audience
+| Assumptions if proven wrong can cause failure |
+| -------- |
+|Students Have Sufficient Prior Knowledge  | 
+|The GUI is Intuitive Enough for Students  |
+|Access to Required Hardware/Software  | 
+|Students Are Motivated to Use the Tool Independently  |
+|The Simulation Accurately Represents Real Quantum Circuits  | 
 ## $\color{#ff0000}\textsf{IBM Composer}$
 https://quantum.cloud.ibm.com/composer<br>
 https://construct.psiquantum.com/qdk
