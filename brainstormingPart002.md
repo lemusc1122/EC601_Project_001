@@ -74,3 +74,5 @@ https://terriergpt.bu.edu/share/tQPIuZe7L7_pgDNBznsWL
 ## $\color{#ff0000}\textsf{IBM Composer}$
 https://quantum.cloud.ibm.com/composer<br>
 https://construct.psiquantum.com/qdk
+
+# 2026-09-19  Gearing up to finish Project 1:
