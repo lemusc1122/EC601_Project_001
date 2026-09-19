@@ -75,4 +75,5 @@ https://terriergpt.bu.edu/share/tQPIuZe7L7_pgDNBznsWL
 https://quantum.cloud.ibm.com/composer<br>
 https://construct.psiquantum.com/qdk
 
-# 2026-09-19  Gearing up to finish Project 1:
+# 2026-09-19  Final Project 1 Deliverables: 
+- All deliverables located in the EC601 Google drive under Christopher_Lemus/First Project
