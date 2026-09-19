@@ -61,7 +61,7 @@ As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-
 - Quantum circuits can be easily simulated on computers (#1 - Most fatal if wrong)
 - The results will assist in reinforcing understanding or expected results (i.e. testing a new algorithm) (#2 - results might be wrong but can always fix on next iteration. Non-fatal)
 ## $\color{#00ff00}\textsf{Kill criteria and 5 potentially proposal-ending assumptions}$
-- We terminate the project if there exists a tool that already provides this service and targets the same audience
+- We terminate the project if there exists a tool that already provides this service and targets the same audience<br>
 | Assumptions if proven wrong can cause failure |
 | -------- |
 |Students Have Sufficient Prior Knowledge  | 
