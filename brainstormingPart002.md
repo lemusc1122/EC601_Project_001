@@ -57,9 +57,9 @@ As a $\color{#ffe135}\textsf{researcher}$, I want $\color{#ffe135}\textsf{a GUI-
 | Researchers want a tool quickly test new ideas | GUI, plus options to implement algorithms and debug Qiskit code |
 | Any methods that can reduce error in simulated quantum circuit can be used in larger Quantum system | Apply methods to different scale processors to confirm behavior |
 ## $\color{#00ff00}\textsf{Proposal re-written as assumptions}$
-- Students with different exposure levels wants to learn about quantum circuits
-- Quantum circuits can be easily simulated on computers
-- The results will assist in reinforcing understanding or expected results (i.e. testing a new algorithm)
+- Students with different exposure levels wants to learn about quantum circuits (#3 - Someone will want a tool like this)
+- Quantum circuits can be easily simulated on computers (#1 - Most fatal if wrong)
+- The results will assist in reinforcing understanding or expected results (i.e. testing a new algorithm) (#2 - results might be wrong but can always fix on next iteration. Non-fatal)
 ## $\color{#ff0000}\textsf{IBM Composer}$
 https://quantum.cloud.ibm.com/composer<br>
 https://construct.psiquantum.com/qdk
